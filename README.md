@@ -1,6 +1,47 @@
-# MERN Stack Expenese Tracking
-Expense tracking app build with MERN stack for the tutorial **MERN Stack for Beginners - Arabic**
+# MERN Stack Expense Tracker App
 
-* [Course link on barmaga.io](https://barmaga.io/courses/%D8%AA%D8%B9%D9%84%D9%85-%D8%A8%D9%86%D8%A7%D8%A1-%D8%AA%D8%B7%D8%A8%D9%8A%D9%82-%D9%88%D9%8A%D8%A8-%D8%A8%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85-mern-stack)
-* [Course playlist on YouTube](https://www.youtube.com/playlist?list=PL_aOZuct6oAoz9FY-gd_hGUIq88q9aJkU)
+A full-stack expense tracking application built with the MERN stack (MongoDB, Express.js, React, Node.js). This project demonstrates how to build a complete web application with user authentication, expense management, and data visualization.
 
+## 📺 YouTube Tutorial
+
+This project is part of my YouTube tutorial series. Watch the complete walkthrough here:
+
+**[MERN Stack for Beginners - Arabic](https://www.youtube.com/watch?v=yPrvFxesEyQ&list=PL_aOZuct6oAoz9FY-gd_hGUIq88q9aJkU)**
+
+Subscribe to my channel for more coding tutorials: [Khalid Elshafie](https://youtube.com/c/KhalidElshafie)
+
+
+## 🎯 Features
+
+- User registration and authentication
+- Add, edit, and delete expenses
+- Categorize expenses
+- View expense history and analytics
+- Responsive design for mobile and desktop
+
+## 🛠️ Tech Stack
+
+- **Frontend**: React.js
+- **Backend**: Node.js, Express.js
+- **Database**: MongoDB
+- **Authentication**: JWT (JSON Web Tokens)
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+- Node.js (v14 or higher)
+- MongoDB
+- npm or yarn
+
+### Installation
+
+1. Clone the repository
+2. Install dependencies for both frontend and backend
+3. Set up your MongoDB connection
+4. Configure environment variables
+5. Run the development servers
+
+## 🤝 Contributing
+
+Feel free to open issues or submit pull requests if you have suggestions for improvements!
